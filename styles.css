@@ -1,0 +1,54 @@
+img{
+    max-width: 100%;
+    margin-top: 10px;
+    height: auto;
+}
+figure{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+figcaption{
+    margin-top: 0;
+    padding-top: 0;
+    text-align: center;
+}
+div{
+    background-color: whitesmoke;
+    margin: 0 100px;
+    padding: 0;
+}
+h1, p{
+    text-align: center;
+}
+body{
+    background-color: gray;
+}
+p{
+    margin-bottom: 0;
+}
+div>ul>li{
+    margin-bottom: 30px;
+}
+ul{
+    
+    list-style-position: inside;
+    display: block;
+    width: 400px;
+    
+}
+.article{
+    margin:0 20px;
+    text-align: center;
+}
+#tribute-info{
+    width: 500px;
+    position: center;
+    margin: 0 auto;
+   background-color: gray;
+}
+h2{
+    text-align: center;
+}
